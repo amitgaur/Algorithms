@@ -3,6 +3,7 @@ http://algs4.cs.princeton.edu/23quicksort/Quick.java.html
 
 Dutch National Flag
 
+http://algs4.cs.princeton.edu/23quicksort/Quick3way.java.html
 https://coderbyte.com/question/dutch-national-flag-sorting-problem
 
 http://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array/
